@@ -15,10 +15,10 @@ Desktop Assistant is a Python-based desktop application created in PyCharm that 
 Python 3.7 or higher
 PyCharm IDE (or any other Python IDE of your choice)
 Required Python packages (can be installed via pip):
-a) SpeechRecognition
-b) pyttsx3
-c) webbrowser
-d) os
+1) SpeechRecognition
+2) pyttsx3
+3) webbrowser
+4) os
 
 # Getting Started
 
